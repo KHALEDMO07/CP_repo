@@ -1,4 +1,4 @@
-/*
+/*https://codeforces.com/contest/1195/problem/C
 *  we can solve this problem using dp
 *  first try to think , if u can not solve it , check the code  
 */
