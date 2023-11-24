@@ -1,6 +1,5 @@
 # CP_repo
-in this repo i will put solutions to some of problems that i prefer and have solved during my Journey in CP 
- , i wish u all the best
+This repo contains some solutions to some problems that I prefer
 
 
 
