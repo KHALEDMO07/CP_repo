@@ -1,5 +1,4 @@
 # CP_repo
-This repo contains some solutions to some problems that I prefer
 
 
 
